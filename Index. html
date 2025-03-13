@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Recipe Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Recipe Website</h1>
+        <nav>
+            <a href="about.html">About Us</a>
+            
+            <a href="contact.html">Contact</a>
+            
+            <a href="recipes.html"> Recipes</a>   
+    
+        </nav>
+    </header>
+
+    <section class="recipe">
+        <h2>Delicious Pancakes</h2>
+        <img src="American Pancakes Recipe.jpg" alt="Pancakes" width="300">
+        <h3>Ingredients:</h3>
+        <ul>
+            <li>1 cup flour</li>
+            <li>1 tbsp sugar</li>
+            <li>1 tsp baking powder</li>
+            <li>1 egg</li>
+            <li>1 cup milk</li>
+            <li>1 tbsp melted butter</li>
+        </ul>
+        
+        <h3>Instructions:</h3>
+        <ol>
+            <li>Mix dry ingredients together.</li>
+            <li>Add egg, milk, and melted butter.</li>
+            <li>Stir until smooth.</li>
+            <li>Cook on a heated pan until golden brown.</li>
+        </ol>
+    </section>
+
+    <footer>
+        <p>&copy; 2025. DELIGHT AND All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
